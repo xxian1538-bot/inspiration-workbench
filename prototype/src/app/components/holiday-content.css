@@ -1,0 +1,31 @@
+.holiday-materials {
+  container-type: inline-size;
+}
+
+.holiday-material-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.holiday-material-grid > li:nth-child(n + 9) {
+  display: none;
+}
+
+@container (min-width: 32rem) {
+  .holiday-material-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .holiday-material-grid > li:nth-child(n + 9):nth-child(-n + 16) {
+    display: block;
+  }
+}
+
+@container (min-width: 54rem) {
+  .holiday-material-grid {
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+  }
+
+  .holiday-material-grid > li:nth-child(n + 17):nth-child(-n + 28) {
+    display: block;
+  }
+}

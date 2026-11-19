@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "category": "news",
+    "date": "2026-11-04",
+    "source": "中国网信网",
+    "title": "《中国互联网发展报告2026》和《世界互联网发展报告2026》蓝皮书发布",
+    "summary": "两份蓝皮书在世界互联网大会乌镇峰会发布。中国卷梳理人工智能政策、应用和产业生态的进展。",
+    "originalUrl": "https://www.cac.gov.cn/2026-11/04/c_1795460613735984.htm",
+    "impact": "高",
+    "tags": [
+      "行业报告",
+      "人工智能"
+    ],
+    "isImportant": true,
+    "categories": [
+      "news"
+    ],
+    "subscriptionId": "gov-cac",
+    "customerId": null,
+    "region": "全国",
+    "originality": "原创性未识别"
+  },
+  {
+    "id": 2,
+    "category": "news",
+    "date": "2026-09-15",
+    "source": "中国网信网",
+    "title": "2026年人工智能技术赋能网络安全应用测试结果发布",
+    "summary": "全国网络安全宣传周开幕式发布年度应用测试结果，旨在发掘人工智能在网络安全领域的应用场景。",
+    "originalUrl": "https://www.cac.gov.cn/2026-09/15/c_1791223917393375.htm",
+    "impact": "中",
+    "tags": [
+      "行业测试",
+      "网络安全"
+    ],
+    "categories": [
+      "news"
+    ],
+    "subscriptionId": "gov-cac",
+    "customerId": null,
+    "region": "全国",
+    "originality": "原创性未识别"
+  },
+  {
+    "id": 3,
+    "category": "policy",
+    "date": "2026-05-12",
+    "source": "中国网信网",
+    "title": "规范短视频内容标注答记者问",
+    "summary": "发布方介绍短视频内容标注的必选标签、展示位置和发布流程，并回应存量内容回溯要求。",
+    "originalUrl": "https://www.cac.gov.cn/2026-05/12/c_1780328273108117.htm",
+    "impact": "高",
+    "tags": [
+      "短视频",
+      "内容标注"
+    ],
+    "isImportant": true,
+    "categories": [
+      "policy",
+      "gov"
+    ],
+    "subscriptionId": "gov-cac",
+    "customerId": null,
+    "region": "全国",
+    "originality": "原创性未识别"
+  },
+  {
+    "id": 4,
+    "category": "gov",
+    "date": "2026-05-08",
+    "source": "中国网信网",
+    "title": "智能体规范应用与创新发展实施意见",
+    "summary": "文件从技术、产业、应用及治理等方面部署智能体的规范应用与创新发展。",
+    "originalUrl": "https://www.cac.gov.cn/2026-05/08/c_1779979789523320.htm",
+    "impact": "中",
+    "tags": [
+      "智能体",
+      "政策"
+    ],
+    "categories": [
+      "gov",
+      "policy"
+    ],
+    "subscriptionId": "gov-cac",
+    "customerId": null,
+    "region": "全国",
+    "originality": "原创性未识别"
+  },
+  {
+    "id": 5,
+    "category": "gov",
+    "date": "2026-04-30",
+    "source": "中国网信网",
+    "title": "中央网信办部署开展“清朗·整治AI应用乱象”专项行动",
+    "summary": "专项行动围绕人工智能应用服务和网络内容中的典型问题作出阶段性部署。",
+    "originalUrl": "https://www.cac.gov.cn/2026-04/30/c_1779289298718765.htm",
+    "impact": "高",
+    "tags": [
+      "AI应用",
+      "内容治理"
+    ],
+    "categories": [
+      "gov"
+    ],
+    "subscriptionId": "gov-cac",
+    "customerId": null,
+    "region": "全国",
+    "originality": "原创性未识别"
+  },
+  {
+    "id": 6,
+    "category": "customer",
+    "date": "2026-03-18",
+    "source": "光明网（中国网信网转载）",
+    "title": "光明网：“AI+漫画+故事”让网络法治宣传活力迸发",
+    "summary": "光明网介绍其以人工智能解读、互动漫画等方式开展网络普法的内容实践。",
+    "originalUrl": "https://www.cac.gov.cn/2026-03/18/c_1775395791559665.htm",
+    "impact": "中",
+    "tags": [
+      "媒体案例",
+      "内容创新"
+    ],
+    "categories": [
+      "customer",
+      "news"
+    ],
+    "subscriptionId": "customer-guangming",
+    "customerId": "customer-guangming",
+    "region": "全国",
+    "originality": "转载"
+  },
+  {
+    "id": 7,
+    "category": "gov",
+    "date": "2025-10-10",
+    "source": "中国网信网",
+    "title": "政务领域人工智能大模型部署应用指引",
+    "summary": "指引围绕政务大模型的应用场景、部署和治理给出工作要求。",
+    "originalUrl": "https://www.cac.gov.cn/2025-10/10/c_1761819469929310.htm",
+    "impact": "高",
+    "tags": [
+      "政务",
+      "大模型"
+    ],
+    "categories": [
+      "gov"
+    ],
+    "subscriptionId": "gov-cac",
+    "customerId": null,
+    "region": "全国",
+    "originality": "原创性未识别"
+  },
+  {
+    "id": 8,
+    "category": "policy",
+    "date": "2025-03-14",
+    "source": "中国网信网",
+    "title": "关于印发《人工智能生成合成内容标识办法》的通知",
+    "summary": "四部门印发标识办法，明确生成合成内容显式标识和隐式标识的要求。",
+    "originalUrl": "https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm",
+    "impact": "高",
+    "tags": [
+      "AI标识",
+      "合规"
+    ],
+    "categories": [
+      "policy",
+      "gov"
+    ],
+    "subscriptionId": "gov-cac",
+    "customerId": null,
+    "region": "全国",
+    "originality": "原创性未识别"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "title": "InspirationRepository",
+  "description": "Integrates trending news, social media updates, and creative insights into a card-based feed to inspire content creators and marketers efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
